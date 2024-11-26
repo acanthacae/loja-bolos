@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Bolo de Chocolate",
+        "price": 35.50,
+        "description": "Um delicioso bolo de chocolate com cobertura cremosa.",
+        "image": "assets/images/bolo_chocolate.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bolo de Morango",
+        "price": 42.00,
+        "description": "Bolo recheado com creme e pedaços de morango frescos.",
+        "image": "assets/images/bolo.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Bolo de Leite Ninho",
+        "price": 37.50,
+        "description": "Um delicioso bolo de leite ninho com cobertura.",
+        "image": "assets/images/bolo_leite_ninho.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Bolo de Cenoura",
+        "price": 25.00,
+        "description": "Bolo de cenoura clássico, com pedaços de chocolate.",
+        "image": "assets/images/bolo_cenoura.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Bolo de Ameixa",
+        "price": 25.00,
+        "description": "Bolo de ameixa com frutas vermelhas, sabor refrescante e leve.",
+        "image": "assets/images/IMG_5399.JPG"
+    },
+    {
+        "id": 6,
+        "name": "Bolo de Maracujá",
+        "price": 25.00,
+        "description": "Bolo de maracujá comum, com pedaços de chocolate e creme branco.",
+        "image": "assets/images/bolo_maracuja.jpg"
+    }
+]
+
+
